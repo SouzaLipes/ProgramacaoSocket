@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "DvsOYMuNfdYQopvNqx32c81fsONarYWkVAllebJa4+jof9zEEwdvzPC5HZQ/VunwqUlCkIlOqjDbSBi0+kJuzg==",
+  "dgSpecHash": "MztOpxV2FGaAaOEqtt5zITO1Xw4uzgQnO8bgSc+vDRQ9ZkRYC77CBIkzuR+pLQxvJag297ZCsLLfEjjjqqerLg==",
   "success": true,
-  "projectFilePath": "C:\\Programa socket\\Programa socket.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Programa socket\\ProgramacaoSocket\\Programa socket.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\souza\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.24\\microsoft.netcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\souza\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.24\\microsoft.windowsdesktop.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\souza\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.24\\microsoft.aspnetcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\souza\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.24\\microsoft.netcore.app.host.win-x64.6.0.24.nupkg.sha512"
+  ],
   "logs": []
 }

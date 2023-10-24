@@ -1,0 +1,14 @@
+C:\Programa socket\ClienteMotorista\bin\Debug\net7.0\ClienteMotorista.exe
+C:\Programa socket\ClienteMotorista\bin\Debug\net7.0\ClienteMotorista.deps.json
+C:\Programa socket\ClienteMotorista\bin\Debug\net7.0\ClienteMotorista.runtimeconfig.json
+C:\Programa socket\ClienteMotorista\bin\Debug\net7.0\ClienteMotorista.dll
+C:\Programa socket\ClienteMotorista\bin\Debug\net7.0\ClienteMotorista.pdb
+C:\Programa socket\ClienteMotorista\obj\Debug\net7.0\ClienteMotorista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programa socket\ClienteMotorista\obj\Debug\net7.0\ClienteMotorista.AssemblyInfoInputs.cache
+C:\Programa socket\ClienteMotorista\obj\Debug\net7.0\ClienteMotorista.AssemblyInfo.cs
+C:\Programa socket\ClienteMotorista\obj\Debug\net7.0\ClienteMotorista.csproj.CoreCompileInputs.cache
+C:\Programa socket\ClienteMotorista\obj\Debug\net7.0\ClienteMotorista.dll
+C:\Programa socket\ClienteMotorista\obj\Debug\net7.0\refint\ClienteMotorista.dll
+C:\Programa socket\ClienteMotorista\obj\Debug\net7.0\ClienteMotorista.pdb
+C:\Programa socket\ClienteMotorista\obj\Debug\net7.0\ClienteMotorista.genruntimeconfig.cache
+C:\Programa socket\ClienteMotorista\obj\Debug\net7.0\ref\ClienteMotorista.dll
